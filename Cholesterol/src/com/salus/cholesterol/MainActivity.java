@@ -51,6 +51,7 @@ public class MainActivity extends Activity {
 	@Override
 	protected void onDestroy() {
 		// TODO Auto-generated method stub
+        Log.i("MyApp","Estoy en OnDestroy");		
 		super.onDestroy();
 	}
 
@@ -61,6 +62,7 @@ public class MainActivity extends Activity {
 	@Override
 	protected void onNewIntent(Intent intent) {
 		// TODO Auto-generated method stub
+        Log.i("MyApp","Estoy en OnnewIntent");		
 		super.onNewIntent(intent);
 	}
 
@@ -121,6 +123,7 @@ public class MainActivity extends Activity {
 	@Override
 	protected void onResume() {
 		// TODO Auto-generated method stub
+        Log.i("MyApp","Estoy en OnResume");		
 		super.onResume();
 	}
 
@@ -141,6 +144,7 @@ public class MainActivity extends Activity {
 	@Override
 	protected void onStart() {
 		// TODO Auto-generated method stub
+        Log.i("MyApp","Estoy en OnStart");
 		super.onStart();
 	}
 
@@ -151,6 +155,7 @@ public class MainActivity extends Activity {
 	@Override
 	protected void onStop() {
 		// TODO Auto-generated method stub
+        Log.i("MyApp","Estoy en OnStop");		
 		super.onStop();
 	}
 

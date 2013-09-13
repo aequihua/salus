@@ -4,7 +4,12 @@
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/adt/adt-bundle-windows-x86_64-20130729/sdk/platforms/android-18/android.jar"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="ANDROID-18"/>
+>>>>>>> 723aa4672bee0ad8447895e2f0d85cbb74f19679
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
